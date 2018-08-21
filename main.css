@@ -1,0 +1,14 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  width: 80%;
+  margin: 0 auto;
+  font-family: sans-serif;
+  background-color: mediumseagreen;
+  color: white;
+
+}
+
